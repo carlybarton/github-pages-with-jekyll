@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to our Homepage
 
-I'm glad you are here. I plan to talk about ...
+### *This is a test to see how my homepage looks* 
